@@ -133,7 +133,7 @@ export class CoreLoginSitesPage {
     }
 
     /**
-     * Toggle delete.
+     * Toggle deleter.
      */
     toggleDelete(): void {
         this.showDelete = !this.showDelete;
